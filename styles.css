@@ -1,0 +1,35 @@
+body {
+    background-color: lightgrey;
+    font-family: Tahoma, Verdana, sans-serif ;
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+
+h1 {
+    font-family: Geneva, Verdana, sans-serif;
+
+}
+h2, h3 {
+    font-size: 130%;
+    font-weight: 800;
+    font-family: Garamond, serif;
+}
+
+p , li {
+    text-align: justify;
+}
+
+table , td, th {
+    border: 1px solid;
+    text-align: center;
+}
+
+th, td {
+    padding: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
