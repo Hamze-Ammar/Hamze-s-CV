@@ -33,3 +33,10 @@ table {
     border-collapse: collapse;
     width: 100%;
 }
+
+.profilePic {
+    width: 18%;
+    height: auto;
+    float: right;
+    border-radius: 10px;
+}
