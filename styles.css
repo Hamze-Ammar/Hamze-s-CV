@@ -40,3 +40,8 @@ table {
     float: right;
     border-radius: 10px;
 }
+
+.Icon {
+    display: inline-flex;
+    width: 15px;
+}
