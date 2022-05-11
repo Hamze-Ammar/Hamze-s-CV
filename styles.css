@@ -6,6 +6,7 @@ body {
 
 }
 
+
 h1 {
     font-family: Geneva, Verdana, sans-serif;
 
@@ -35,10 +36,10 @@ table {
 }
 
 .profilePic {
-    width: 18%;
+    width: 23%;
     height: auto;
     float: right;
-    border-radius: 10px;
+    border-radius: 50%;
 }
 
 .Icon {
@@ -47,7 +48,7 @@ table {
 }
 
 .sendEmail {
-    background-color: rgba(44, 146, 172, 0.5);
+    background-color: lightgrey;
     color: rgb(36, 33, 241);
     border: 2px solid rgb(116, 201, 116);
     padding: 5px 5px;
@@ -67,4 +68,11 @@ table {
     background-color: rgb(15, 100, 126);
     color: rgb(240, 226, 226);
 
+}
+
+.languagesLogo {
+    float: left;
+    height: 70px;
+    width:auto;
+    object-fit: cover;
 }
